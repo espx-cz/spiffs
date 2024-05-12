@@ -1,6 +1,6 @@
 {
   "name": "@adent/spiffs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "spiffs.js",
   "type": "module",
   "scripts": {
@@ -13,10 +13,10 @@
   "bin": {
     "spiffs": "spiffs.js"
   },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/espx-cz/spiffs"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espx-cz/spiffs"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
