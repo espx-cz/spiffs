@@ -1,5 +1,5 @@
 {
-  "name": "esptool",
+  "name": "@adent/spifs",
   "version": "1.0.0",
   "main": "spiffs.js",
   "type": "module",
